@@ -1,1 +1,2 @@
 # ImageLogger
+Images transfer service
